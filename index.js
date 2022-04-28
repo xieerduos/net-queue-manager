@@ -90,7 +90,6 @@ LazyMan("Tony")
     .sleepFirst(1)
     .eat("junk food");
 // Hi I am Tony
-// hitIndex :>>  0
 // 等待了 5 秒
 // 等待了 1 秒
 // I am eating lunch
